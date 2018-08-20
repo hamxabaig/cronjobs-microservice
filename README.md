@@ -1,5 +1,5 @@
 # cronjobs-microservice
-ThinBlock's CronJobs MicroSerivce is a docker container built on docker-crontab image. It pushes a heatbeat event on every 1s
+ThinBlock's CronJobs MicroSerivce is a docker container built on docker-crontab image. It pushes a heartbeat event every 1m
 
 ## Installation
 After installing `docker` run this command while in projects directory
